@@ -1,0 +1,31 @@
+body {
+    background-color: lightblue;
+    font-family: "Truculenta", sans-serif;
+}
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    font-size: 22px;
+    background-color: white;
+    color: grey;
+    text-shadow: 5px 5px 5px rgb(151,149,149);
+    line-height: 2;
+    width:100%;
+    font-family: "Teko", sans-serif;
+    letter-spacing: 1px;
+}
+
+.header_div {
+    background-color: darkblue;
+    color: white;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+.main_div button {
+    font-size: 22px;
+    font-weight: bold;
+}
